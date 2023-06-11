@@ -1,8 +1,8 @@
-public class Types {
+public class newObjects {
     int digit;
     String string;
 
-    public Types(int digit, String string) {
+    public newObjects(int digit, String string) {
         this.digit = digit;
         this.string = string;
     }
